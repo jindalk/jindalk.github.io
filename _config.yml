@@ -7,9 +7,9 @@ version: 2
 
 # Personal info
 name: Kunal Jindal
-title: Aspiring Researcher, Deep Learning and Synthetic Biology
+title: Cross disciplinary researcher in genomics, machine learning, and stem cell biology.
 email: kjkjindal@gmail.com
-website: https://kjkjindal.github.io
+website: https://jindalk.github.io
 
 # Dark Mode (true/false/never)
 darkmode: true
@@ -18,7 +18,7 @@ darkmode: true
 twitter_username: kjkjindal
 github_username: jindalk
 linkedin_username: kjindal24
-facebook_username: kjkjindal
+# facebook_username: kjkjindal
 
 # Additional icon links
 additional_links:
