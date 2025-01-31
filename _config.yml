@@ -25,9 +25,9 @@ additional_links:
   - title: Curriculum Vitae
     icon: fas fa-file-alt
     url: /path/to/your/cv.pdf
-  - title: Deep Learning Articles
+  - title: Medium Blog
     icon: fas fa-book
-    url: https://github.com/kjkjindal/deep-learning-articles
+    url: https://medium.com/@kjkjindal
 
 # About Section
 about_profile_image: images/profile.jpg
