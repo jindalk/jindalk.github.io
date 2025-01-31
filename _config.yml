@@ -7,121 +7,81 @@ version: 2
 
 # Personal info
 name: Kunal Jindal
-title: Senior Network System Administrator
+title: Aspiring Researcher, Deep Learning and Synthetic Biology
 email: kjkjindal@gmail.com
-website: jindalk.github.io
+website: https://kjkjindal.github.io
 
 # Dark Mode (true/false/never)
 darkmode: true
 
 # Social links
 twitter_username: kjkjindal
-github_username:  jindalk
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: 2kunal4
+github_username: jindalk
 linkedin_username: kjindal24
-# xing_username: jekyll
-# pinterest_username: jekyll
-# youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+facebook_username: kjkjindal
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+  - title: Curriculum Vitae
+    icon: fas fa-file-alt
+    url: /path/to/your/cv.pdf
+  - title: Deep Learning Articles
+    icon: fas fa-book
+    url: https://github.com/kjkjindal/deep-learning-articles
 
 # About Section
-# about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  I am an aspiring researcher in the field of synthetic biology and deep learning. I am currently working as a Scientific Assistant at Dr. Manfred Claassen’s laboratory at the Institute of Molecular Systems Biology at ETH Zurich. Previously, I was a visiting research fellow at the George Church laboratory at the Department of Genetics at Harvard Medical School.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  Synthetic biology is a highly exciting field of bioengineering propelled by the advancements in DNA sequencing and synthesis methods in the last two decades. I am broadly interested in working at the interface of deep learning and synthetic biology to develop next-generation high-throughput methods for fundamental biological and biomedical research and diagnostics.
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Research Projects
+    layout: list
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+        title: Developing Generative Machine Learning Models for Biological Data
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          Developing generative models to produce biologically relevant “omic” data and help enable better genomics research.
+          
+          More on this soon!!
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+      - layout: top-middle
+        title: Towards Multiplexed Detection of Transcripts and Proteins Using Targeted In Situ Sequencing
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+          In situ spatial genomics is of great interest to the synthetic biology community. It would not only help understand inter and intra-cellular distribution of biomolecules such as RNA and proteins but would also open doors for in situ phenotypic screens. My project at the Church lab dealt with developing a method for targeted in situ sequencing for short and long RNA transcripts and proteins. I was primarily involved in developing the library preparation protocol for RNA transcripts and DNA barcoded protein binders and piloted development of a new scalable DNA–Antibody conjugation method.
 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+      - layout: top-middle
+        title: A Programmable ThermoFluidic Cycler for Automated FISSEQ
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          Fluorescent In Situ Sequencing consists of multiple highly challenging and sensitive molecular biology protocols. Small human errors can many times lead to unexpected results, noise, and even complete failures. In order to obviate such issues, the group sought out to develop a programmable Thermal and Fluidic Cycler to automate not only FISSEQ but a large variety of molecular biology experiments in general. I was primarily involved in designing the initial architecture of the device, communication protocol between the Central and peripheral units, and most importantly the ‘Thermal’ part of the ThermoFluidic Cycler.
 
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+      - layout: top-middle
+        title: Binding Site Analysis of an Acyl CoA Binding Protein
+        description: | # this will include new lines to allow paragraphs
+          As an Indian Academy of Science Summer Research Fellow, I worked at the Computational and Functional Genomics lab at the Centre for DNA Fingerprinting and Diagnostics. During the 2 months of the internship, I piloted a small study to gain insights into the ligand-binding mechanics of a Plasmodium falciparum protein, ACBP16. ACBP16 is a key metabolic regulator; small molecules disrupting its ligand-binding function can adversely affect the parasite and can hence be key drug candidates for malaria. My project was aimed at investigating molecular interactions involved in the ligand-binding function, with an overarching objective to guide a more directed approach towards drug development in the future.
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - layout: top-middle
+        title: A Novel Plug n Play MEMS-Based DNA Microarray
+        description: | # this will include new lines to allow paragraphs
+          Microarrays are important genomics tools used for a variety of purposes in modern life science research. However, the basic readout method for microarrays has changed little since the 1990s. They use expensive fluorophores for labeling and still more expensive instruments for detecting them. Combining expertise from electronics circuit design and MEMS, we sought to rethink the design of microarrays. We designed a MEMS resonant mass sensor that could perform label-free detection of bound DNA/RNA to replace the traditional ‘microarray spots’. We also designed circuits to amplify and convert this signal into a digital signal for easy interfacing with a PC. The whole setup was successfully simulated in COMSOL Multiphysics and LTSpice and was presented at the COMSOL Conference 2016, Boston.
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      - layout: top-middle
+        title: Universal Biosensor Design
+        description: | # this will include new lines to allow paragraphs
+          Biosensors are interesting tools of measurement used for sensing (mostly) biological and chemical signals. We sought out to develop a modular pipeline that can be easily modified to create a wide variety of biosensors for a wide range of applications. The project was presented at Harvard’s annual biomolecular design competition.
 
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: sproogen/modern-resume-theme
 
 sass:
   sass_dir: _sass
   style: compressed
 
 plugins:
- - jekyll-seo-tag
+  - jekyll-seo-tag
