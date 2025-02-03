@@ -66,13 +66,11 @@ content:
       - layout: top
         title: Binding Site Analysis of an Acyl CoA Binding Protein
         description: | # this will include new lines to allow paragraphs
-          As an Indian Academy of Science Summer Research Fellow, I worked at the Computational and Functional Genomics lab at the Centre for DNA Fingerprinting and Diagnostics. During the 2 months of the internship, I piloted a small study to gain insights into the ligand-binding mechanics of a Plasmodium falciparum protein, ACBP16. ACBP16 is a key metabolic regulator; small molecules disrupting its ligand-binding function can adversely affect the parasite and can hence be key drug candidates for malaria. My project was aimed at investigating molecular interactions involved in the ligand-binding function, with an overarching objective to guide a more directed approach towards drug development in the future.
-
+          Investigated ligand-binding mechanics of ACBP16, a key metabolic regulator in Plasmodium falciparum, as an Indian Academy of Science Summer Research Fellow at the Centre for DNA Fingerprinting and Diagnostics. Findings aimed to inform targeted drug development for malaria. [Report](docs/report_CDFD.pdf)
       - layout: top
         title: A Novel Plug n Play MEMS-Based DNA Microarray
         description: | # this will include new lines to allow paragraphs
-          Microarrays are important genomics tools used for a variety of purposes in modern life science research. However, the basic readout method for microarrays has changed little since the 1990s. They use expensive fluorophores for labeling and still more expensive instruments for detecting them. Combining expertise from electronics circuit design and MEMS, we sought to rethink the design of microarrays. We designed a MEMS resonant mass sensor that could perform label-free detection of bound DNA/RNA to replace the traditional ‘microarray spots’. We also designed circuits to amplify and convert this signal into a digital signal for easy interfacing with a PC. The whole setup was successfully simulated in COMSOL Multiphysics and LTSpice and was presented at the COMSOL Conference 2016, Boston.
-
+          Designed a [MEMS-based label-free DNA/RNA detection system](/docs/poster_mems.pdf) to replace traditional microarray fluorophore-based readouts, integrating circuit design for digital signal conversion. Successfully simulated in COMSOL Multiphysics and LTSpice, and presented at the COMSOL Conference 2016, Boston. Details [slides](/docs/pdf_mems.pdf)
       - layout: top
         title: Universal Biosensor Design
         description: | # this will include new lines to allow paragraphs
