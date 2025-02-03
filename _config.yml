@@ -56,7 +56,7 @@ content:
       - layout: top
         title: Targeted in situ sequencing to spatially profile RNA and protein.
         description: | # this will include new lines to allow paragraphs
-          Developed and optimized library preparation method to profile a panel of RNA and protein molecules using in situ sequencing in cultured cells and tisses.
+          Developed and optimized library preparation [method](https://pubmed.ncbi.nlm.nih.gov/33693773/) to profile a panel of RNA and protein molecules using in situ sequencing in cultured cells and tisses.
           
       - layout: top
         title: A Programmable ThermoFluidic Cycler for Automated FISSEQ
@@ -76,8 +76,7 @@ content:
       - layout: top
         title: Universal Biosensor Design
         description: | # this will include new lines to allow paragraphs
-          Biosensors are interesting tools of measurement used for sensing (mostly) biological and chemical signals. We sought out to develop a modular pipeline that can be easily modified to create a wide variety of biosensors for a wide range of applications. The project was presented at Harvard’s annual biomolecular design competition.
-
+          Founded and led my college's team to BIOMOD 2015, the annual bio-nanotechnology competition, and won silver medal. Developed a modular biosensor pipeline adaptable for diverse biological and chemical sensing applications. [Slides](), [Wiki](https://nanocraftersbits.github.io/#/), and [Video](https://www.youtube.com/watch?v=tsI8-NE1HYg).
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
