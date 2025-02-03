@@ -76,7 +76,7 @@ content:
       - layout: top
         title: Universal Biosensor Design
         description: | # this will include new lines to allow paragraphs
-          Founded and led my college's team to BIOMOD 2015, the annual bio-nanotechnology competition, and won silver medal. Developed a modular biosensor pipeline adaptable for diverse biological and chemical sensing applications. [Slides](), [Wiki](https://nanocraftersbits.github.io/#/), and [Video](https://www.youtube.com/watch?v=tsI8-NE1HYg).
+          Founded and led my college's team to BIOMOD 2015, the annual bio-nanotechnology competition, and won silver medal. Developed a modular biosensor pipeline adaptable for diverse biological and chemical sensing applications. [Slides](/docs/pdf_biomod.pdf), [Wiki](https://nanocraftersbits.github.io/#/), and [Video](https://www.youtube.com/watch?v=tsI8-NE1HYg).
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
