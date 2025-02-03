@@ -32,7 +32,7 @@ additional_links:
 # About Section
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-I am a cross disciplinary researcher with expertise in single-cell and spatial genomics, stem cell biology, and machine learning. Broadly, the goal of my research has been to develop tools for analyzing and controlling biological systems, with applications in biomedicine. I pursued my Ph.D. at Washington University in the lab of Dr. Samantha Morris, where I developed a novel technology to pair lineage readout with single cell epigenomics, dubbed CellTag-multi. I used this to understand how clones from the same starting population go through distinct epigenetic and transcriptional changes over the course of  reprogramming and differentiation, hence acquiring different cell fates.
+  I am a cross disciplinary researcher with expertise in single-cell and spatial genomics, stem cell biology, and machine learning. Broadly, the goal of my research has been to develop tools for analyzing and controlling biological systems, with applications in biomedicine. I pursued my Ph.D. at Washington University in the lab of Dr. Samantha Morris, where I developed a novel technology to pair lineage readout with single cell epigenomics, dubbed CellTag-multi. I used this to understand how clones from the same starting population go through distinct epigenetic and transcriptional changes over the course of  reprogramming and differentiation, hence acquiring different cell fates.
 content:
   - title: Research Projects
     layout: list
