@@ -70,7 +70,7 @@ content:
       - layout: top
         title: A Novel Plug n Play MEMS-Based DNA Microarray
         description: | # this will include new lines to allow paragraphs
-          Designed a [MEMS-based label-free DNA/RNA detection system](/docs/poster_mems.pdf) to replace traditional microarray fluorophore-based readouts, integrating circuit design for digital signal conversion. Successfully simulated in COMSOL Multiphysics and LTSpice, and presented at the COMSOL Conference 2016, Boston. Details [slides](/docs/pdf_mems.pdf)
+          Designed a [MEMS-based label-free DNA/RNA detection system](/docs/poster_mems.pdf) to replace traditional microarray fluorophore-based readouts, integrating circuit design for digital signal conversion. Successfully simulated in COMSOL Multiphysics and LTSpice, and presented at the COMSOL Conference 2016, Boston. [Details slides](/docs/pdf_mems.pdf).
       - layout: top
         title: Universal Biosensor Design
         description: | # this will include new lines to allow paragraphs
