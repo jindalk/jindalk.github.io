@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Kunal Jindal
-title: Cross disciplinary researcher in genomics, machine learning, and stem cell biology.
+title: Solving disease biology through innovative technologies.
 email: kjkjindal@gmail.com
 website: https://jindalk.github.io
 
@@ -32,10 +32,7 @@ additional_links:
 # About Section
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am an aspiring researcher in the field of synthetic biology and deep learning. I am currently working as a Scientific Assistant at Dr. Manfred Claassen’s laboratory at the Institute of Molecular Systems Biology at ETH Zurich. Previously, I was a visiting research fellow at the George Church laboratory at the Department of Genetics at Harvard Medical School.
-
-  Synthetic biology is a highly exciting field of bioengineering propelled by the advancements in DNA sequencing and synthesis methods in the last two decades. I am broadly interested in working at the interface of deep learning and synthetic biology to develop next-generation high-throughput methods for fundamental biological and biomedical research and diagnostics.
-
+I am a cross disciplinary researcher with expertise in single-cell and spatial genomics, stem cell biology, and machine learning. Broadly, the goal of my research has been to develop tools for analyzing and controlling biological systems, with applications in biomedicine. I pursued my Ph.D. at Washington University in the lab of Dr. Samantha Morris, where I developed a novel technology to pair lineage readout with single cell epigenomics, dubbed CellTag-multi. I used this to understand how clones from the same starting population go through distinct epigenetic and transcriptional changes over the course of  reprogramming and differentiation, hence acquiring different cell fates.
 content:
   - title: Research Projects
     layout: list
