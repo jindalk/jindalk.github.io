@@ -20,14 +20,23 @@ github_username: jindalk
 linkedin_username: kjindal24
 # facebook_username: kjkjindal
 
+contact:
+  email: kijindal@gmail.com
+  website: https://jindalk.github.io
+  social:
+    linkedin: https://www.linkedin.com/in/kjindal24/
+    github: https://github.com/jindalk
+    twitter: https://twitter.com/kjkjindal
+    medium: https://medium.com/@kjindal
+
 # Additional icon links
-additional_links:
-  - title: Curriculum Vitae
-    icon: fas fa-file-alt
-    url: /path/to/your/cv.pdf
-  - title: Medium Blog
-    icon: fab fa-medium
-    url: https://medium.com/@kjkjindal
+# additional_links:
+#   - title: Curriculum Vitae
+#     icon: fas fa-file-alt
+#     url: /path/to/your/cv.pdf
+#   - title: Medium Blog
+#     icon: fab fa-medium
+#     url: https://medium.com/@kjkjindal
 
 # About Section
 about_profile_image: images/profile.jpg
