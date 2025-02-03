@@ -40,7 +40,9 @@ content:
       - layout: top
         title: Dissecting the Role of Chromatin Remodeling in Direct Lineage Reprogramming
         description: | # this will include new lines to allow paragraphs
-          Developing generative models to produce biologically relevant “omic” data and help enable better genomics research.
+          During my Ph.D I developed new molecular and computational tools to better study how cell state changes over time in the context of cellular reprogramming. A non-exhaustive list includes [CellTag-multi] (https://www.nature.com/articles/s41587-023-01931-4], [CellOracle] (https://www.nature.com/articles/s41587-023-01931-4), and other efforts in Adipocyte reprogramming, and Hirschprung's disease.
+
+          My thesis can be found on [ProQuest] (https://www.proquest.com/openview/9f150b1dcf9eb857e55870f82e11468a/) and an up-to-date list of my published works on [Google Scholar] (https://scholar.google.ch/citations?user=-_uGd5cAAAAJ&hl=en).
           
       - layout: top
         title: Adversarial learning to simulate time course transcriotomic data
