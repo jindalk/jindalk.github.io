@@ -37,7 +37,7 @@ content:
   - title: Research Projects
     layout: list
     content:
-      - layout: top-middle
+      - layout: standard
         title: Developing Generative Machine Learning Models for Biological Data
         description: | # this will include new lines to allow paragraphs
           Developing generative models to produce biologically relevant “omic” data and help enable better genomics research.
