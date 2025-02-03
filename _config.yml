@@ -40,7 +40,7 @@ content:
       - layout: top
         title: Dissecting the Role of Chromatin Remodeling in Direct Lineage Reprogramming
         description: | # this will include new lines to allow paragraphs
-          During my Ph.D I developed new molecular and computational tools to better study how cell state changes over time in the context of cellular reprogramming. A non-exhaustive list includes [CellTag-multi](https://www.nature.com/articles/s41587-023-01931-4], [CellOracle](https://www.nature.com/articles/s41587-023-01931-4), and other efforts in [Adipocyte reprogramming](https://pmc.ncbi.nlm.nih.gov/articles/PMC10312565/), and Hirschprung's disease. I will update this as more of these projects become available in the public domain.
+          During my Ph.D I developed new molecular and computational tools to better study how cell state changes over time in the context of cellular reprogramming. A non-exhaustive list includes [CellTag-multi](https://www.nature.com/articles/s41587-023-01931-4), [CellOracle](https://www.nature.com/articles/s41586-022-05688-9), and other efforts in [Adipocyte reprogramming](https://pmc.ncbi.nlm.nih.gov/articles/PMC10312565/), and Hirschprung's disease. I will update this as more of these projects become available in the public domain.
 
           My thesis can be found on [ProQuest](https://www.proquest.com/openview/9f150b1dcf9eb857e55870f82e11468a/) and an up-to-date list of my published works on [Google Scholar](https://scholar.google.ch/citations?user=-_uGd5cAAAAJ&hl=en).
 
@@ -51,18 +51,18 @@ content:
       - layout: top
         title: Adversarial learning to simulate time course transcriotomic data
         description: | # this will include new lines to allow paragraphs
-          Developing generative models to produce biologically relevant “omic” data and help enable better genomics research.
+          Piloted a novel Generative AI-based approach for Adversarial Data Augmentation to improve a Gene Regulatory Network classifier [model](https://www.research-collection.ethz.ch/handle/20.500.11850/337027).
 
       - layout: top
         title: Targeted in situ sequencing to spatially profile RNA and protein.
         description: | # this will include new lines to allow paragraphs
-          In situ spatial genomics is of great interest to the synthetic biology community. It would not only help understand inter and intra-cellular distribution of biomolecules such as RNA and proteins but would also open doors for in situ phenotypic screens. My project at the Church lab dealt with developing a method for targeted in situ sequencing for short and long RNA transcripts and proteins. I was primarily involved in developing the library preparation protocol for RNA transcripts and DNA barcoded protein binders and piloted development of a new scalable DNA–Antibody conjugation method.
-
+          Developed and optimized library preparation method to profile a panel of RNA and protein molecules using in situ sequencing in cultured cells and tisses.
+          
       - layout: top
         title: A Programmable ThermoFluidic Cycler for Automated FISSEQ
         description: | # this will include new lines to allow paragraphs
-          Fluorescent In Situ Sequencing consists of multiple highly challenging and sensitive molecular biology protocols. Small human errors can many times lead to unexpected results, noise, and even complete failures. In order to obviate such issues, the group sought out to develop a programmable Thermal and Fluidic Cycler to automate not only FISSEQ but a large variety of molecular biology experiments in general. I was primarily involved in designing the initial architecture of the device, communication protocol between the Central and peripheral units, and most importantly the ‘Thermal’ part of the ThermoFluidic Cycler.
-
+          Developed an automated platform for thermal and microfluidic control during in situ sequencing library preparation.
+          
       - layout: top
         title: Binding Site Analysis of an Acyl CoA Binding Protein
         description: | # this will include new lines to allow paragraphs
