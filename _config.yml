@@ -37,15 +37,18 @@ content:
   - title: Research Projects
     layout: list
     content:
-      - layout: standard
-        title: Developing Generative Machine Learning Models for Biological Data
+      - layout: top
+        title: Dissecting the Role of Chromatin Remodeling in Direct Lineage Reprogramming
         description: | # this will include new lines to allow paragraphs
           Developing generative models to produce biologically relevant “omic” data and help enable better genomics research.
           
-          More on this soon!!
+      - layout: top
+        title: Adversarial learning to simulate time course transcriotomic data
+        description: | # this will include new lines to allow paragraphs
+          Developing generative models to produce biologically relevant “omic” data and help enable better genomics research.
 
-      - layout: top-middle
-        title: Towards Multiplexed Detection of Transcripts and Proteins Using Targeted In Situ Sequencing
+      - layout: top
+        title: Targeted in situ sequencing to spatially profile RNA and protein.
         description: | # this will include new lines to allow paragraphs
           In situ spatial genomics is of great interest to the synthetic biology community. It would not only help understand inter and intra-cellular distribution of biomolecules such as RNA and proteins but would also open doors for in situ phenotypic screens. My project at the Church lab dealt with developing a method for targeted in situ sequencing for short and long RNA transcripts and proteins. I was primarily involved in developing the library preparation protocol for RNA transcripts and DNA barcoded protein binders and piloted development of a new scalable DNA–Antibody conjugation method.
 
