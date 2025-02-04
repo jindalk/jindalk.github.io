@@ -38,9 +38,6 @@ content:
   - title: Research Projects
     layout: list
     content:
-      - layout: standard
-      - description: |
-          Check out my Machine learning Medium blog [here](https://medium.com/@kjkjindal).
           
       - layout: top
         title: Dissecting the Role of Chromatin Remodeling in Direct Lineage Reprogramming
