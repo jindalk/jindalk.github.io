@@ -34,10 +34,16 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a cross disciplinary researcher with expertise in single-cell and spatial genomics, stem cell biology, and machine learning. Broadly, the goal of my research has been to develop tools for analyzing and controlling biological systems, with applications in biomedicine. I pursued my Ph.D. at Washington University in the lab of Dr. Samantha Morris, where I developed a novel technology to pair lineage readout with single cell epigenomics, dubbed CellTag-multi. I used this to understand how clones from the same starting population go through distinct epigenetic and transcriptional changes over the course of  reprogramming and differentiation, hence acquiring different cell fates.
+
+  Check out me Medium blog [here](https://medium.com/@kjkjindal).
 content:
-  - title: Research Projects
+  - title: Selected Research Projects
     layout: list
     content:
+      - layout: top
+        title: Gene Regulatory Network-based embedding of cells using Graph Neural Networks 
+        description: | # this will include new lines to allow paragraphs
+          Work in progress..
           
       - layout: top
         title: Dissecting the Role of Chromatin Remodeling in Direct Lineage Reprogramming
